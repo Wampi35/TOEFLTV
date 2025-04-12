@@ -47,8 +47,6 @@
              "name": "NICKTOON",
 			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Espn_deportes.svg/1200px-Espn_deportes.svg.png",
 			"url" : "https://thetvapp.to/tv/nicktoons-live-stream/",
-                        "referer": "https://thetvapp.to/tv/nicktoons-live-stream/",
-                        "isHost": "true",
 }]
 			          },{
             "name": "USA CHANNELS",
