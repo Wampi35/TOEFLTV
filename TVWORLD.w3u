@@ -1,0 +1,30 @@
+{
+  "name": "Sports Channels",
+  "lists": [
+    {
+      "name": "ESPN",
+      "url": "https://example.com/stream/espn.m3u8",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg"
+    },
+    {
+      "name": "Fox Sports",
+      "url": "https://example.com/stream/foxsports.m3u8",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Fox_Sports_logo.svg/512px-Fox_Sports_logo.svg.png"
+    },
+    {
+      "name": "Sky Sports Main Event",
+      "url": "https://example.com/stream/skysportsmain.m3u8",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Sky_Sports_logo_2020.svg/512px-Sky_Sports_logo_2020.svg.png"
+    },
+    {
+      "name": "DAZN",
+      "url": "https://example.com/stream/dazn.m3u8",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/DAZN_logo.svg/512px-DAZN_logo.svg.png"
+    },
+    {
+      "name": "NBA TV",
+      "url": "https://example.com/stream/nbatv.m3u8",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/NBATV2016.svg/512px-NBATV2016.svg.png"
+    }
+  ]
+}
