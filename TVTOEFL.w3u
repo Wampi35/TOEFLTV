@@ -1,10 +1,10 @@
 {
-	"name": "LIGA ESPAÑOLA",
+	"name": "LIGA ESPAÃ‘OLA",
     "author": "SAN LUCAS (Actualizada al 04-09-2023)",
     "image": "https://w0.peakpx.com/wallpaper/810/595/HD-wallpaper-art-logo-queen-art-logo-green.jpg",
     "url": "https://pastebin.com/WHyH5zjZ",
     "groups": [{
-		"name": "LIGA ESPAÑOLA",
+		"name": "LIGA ESPAÃ‘OLA",
 		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/1384px-LaLiga.svg.png",
 		"info": "",
 		"stations": [{
@@ -44,9 +44,11 @@
 			"referer": "https://www.pirlotvhd.watch/canal-102.php",
 			"isHost": "true"
                    }, {  
-             "name": "Un bandido Honrado",
+             "name": "NICKTOON",
 			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Espn_deportes.svg/1200px-Espn_deportes.svg.png",
-			"url" : "https://elnovelerovariadito.com/2023/09/un-bandido-honrado-cap-5/",
+			"url" : "https://thetvapp.to/tv/nicktoons-live-stream/",
+                        "referer": "https://thetvapp.to/tv/nicktoons-live-stream/",
+                        "isHost": "true",
 }]
 			          },{
             "name": "USA CHANNELS",
@@ -305,7 +307,7 @@
             "referer": "https://freestreams-live1.top/fox-deportes/",
 			"isHost": "true"
 }, {
-            "name": "ESPN DEPORTES ESPAÑOL",
+            "name": "ESPN DEPORTES ESPAÃ‘OL",
 			"image": "https://gammawire.com/wp-content/uploads/2021/12/how-many-subscibers-does-NFL-RedZone-have.jpg",
 			"url" : "https://freestreams-live1.top/movistar-la-liga/",
             "referer": "https://freestreams-live1.top/movistar-la-liga/",
