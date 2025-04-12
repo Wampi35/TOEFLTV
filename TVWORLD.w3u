@@ -2,9 +2,10 @@
   "name": "Sports Channels",
   "lists": [
     {
-      "name": "ESPN",
-      "url": "https://example.com/stream/espn.m3u8",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg"
+      "name": "nicktoon",
+      "url": "https://thetvapp.to/tv/nicktoons-live-stream/",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg",
+      "isHost": true
     },
     {
       "name": "Fox Sports",
